@@ -3,19 +3,15 @@
 
 
 
-<h1 align="left">👋🏻 Hello, I'm Jeehee Lee, a backend developer with 6 years of experience!</h1>
+<h1 align="left">👋🏻 Hello, I'm Jeehee Lee</h1>
 <h3 align="left"></h3>
 <p>
 I'm currently developing and maintaining a crowdfunding/E-Commerce platform with over 6 million members.
 
 I have a keen interest in creating services that people want to use more as they use them, grounded in problem-solving based on understanding business and a 'learn as needed' attitude.
 
-I have diverse experiences working proactively as a backend developer for web/app services and as a developer in startups. I have designed, developed, and operated product services using Java, MySQL, JPA, ElasticSearch, etc. I enjoy brainstorming to devise scalable and maintainable backend architectures and patterns. Besides, I like gaining direct and indirect experiences through side projects and community activities, interacting with various professions.
-I enjoy improving inefficient processes. I have experience in planning and developing a back office by systematizing simple routines operated manually in the early stages. I received an S grade in an internal colleague evaluation at that time.
-
 I love finding and technically solving the necessary parts. I enjoy learning about the technology needed for solving problems starting from business understanding. I am interested in creating increasingly desirable services through problem-solving based on business understanding and communication.
 
-Recently, I have been interested in improving search quality based on ElasticSearch. I have experience in improving search functions and performance by learning and applying ElasticSearch in the implementation of integrated search.
 </p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
